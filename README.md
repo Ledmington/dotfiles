@@ -1,2 +1,2 @@
 # dotfiles
-A collection of personal config files
+A collection of personal config files.
