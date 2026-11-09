@@ -13,3 +13,5 @@ source $ZSH/oh-my-zsh.sh
 alias ll='ls -alh'
 
 export LESS='-R'
+export VISUAL=vim
+export EDITOR=vim
